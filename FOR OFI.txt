@@ -1,0 +1,44 @@
+Иностранный язык - foreign language
+Физическая культура - physical culture 
+Отечественная история - Native (national) history
+Русский язык и культура речи - Russian Language and Speech (culture)
+Социология - sociology
+Философия - philosophy
+Экономика - economics
+Политология - political science
+Правоведенье - jurisprudence 
+Психология и педагогика - Psychology and Pedagogy
+Деловой английский - business English
+Алгебра и геометрия - Algebra and Geometry
+Математический анализ - Mathematical analysis
+Дискретная математика - Discrete mathematics
+Математическая логика и теория алгоритмов - Mathematical logic and Theory of computation
+Вычислительная математика - Numerical analysis
+Теория вероятностей, математическая статистика и случайные процессы - Probability theory, Mathematical statistics and Stochastic processses
+Методы оптимизации - optimization Methods (Mathematical optimization)
+Теория принятия решений - Decision theory
+Информатика - Computer science (informatics)
+Физика - Physics
+Экология - Ecology
+Теория информации и сигналов - Information and Signals theory 
+Микропроцессоры - Microprocessors
+Компьютерная графика - Computer graphics
+Электротехника и электроника - Electrical engineering and Electronics
+Безопасность жизнедеятельности - principles/basics of personal and social safety
+Организация и планирование производства - Organization and planning of production
+Программирование на языке высокого уровня - Programming in a high level language (???)
+Основы теории управления - Fundamentals (basics) of Control Theory
+Организация ЭВМ и систем - Computer and Systems Organization (???)
+Операционные системы - Operating systems
+Базы данных - databases
+Сети ЭВМ и телекоммуникации - Computer Networks and Telecommunications
+Методы и средства защиты компьютерной информации - protection of computer information (???)
+мультимедиа технологии - multimedia technology
+Компьютерное моделирование - Computer simulation
+Структуры и алгоритмы обработки данных - data Structure and data processing algorithms (???)
+Объектно-ориентированное программирование  - Object-oriented programming
+Теория языков программировани и методы трансляции - Theory of Programming Languages and translation methods (???)
+Архитектура вычеслительных систем - Computer Systems (architecture)
+Технологии разработки программного обеспечения - Software engineering
+Системы искуственного интелекта - Artificial Intelligence Systems
+Системное программное обеспечение - System software
