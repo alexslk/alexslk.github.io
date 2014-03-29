@@ -1,0 +1,85 @@
+html, body{
+    height: 100%;
+}
+
+
+.example_path {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.example_path .main_logo {
+	position: absolute;
+	opacity: 0.5;
+	opacity: 0.1;
+	bottom: 0%;
+	left:10%;
+	width: 80%;
+	height: auto;
+	padding-top: 0px;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.example_path .left_block {
+	position: absolute;
+	background-color: #9cc;
+	width: 50%;
+	height: 100%;
+	padding-top: 0px;
+	text-align: center;
+	color: #fff;
+	font-size: 10px;
+	white-space: nowrap;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+.example_path .right_block {
+	position: absolute;
+	right: 0;
+	background-color: #9cc;
+	width: 50%;
+	height: 100%;
+	padding-top: 0px;
+	text-align: center;
+	color: #fff;
+	font-size: 10px;
+	white-space: nowrap;
+}
+
+.example_path .img_1 {
+    position: absolute;
+	opacity: 0.8;
+	top: 30%;
+    right: 0;
+    width: auto;
+	height: 50%;
+	max-width: 500px;
+	max-height: 389px;
+}
+
+.example_path .img_2 {
+    position: absolute;
+	opacity: 0.8;
+	top: 30%;
+    left: 0;
+    width: auto;
+	height: 50%;
+	max-width: 500px;
+	max-height: 389px;
+}
+
+.example_path .text_block {
+    position: absolute;
+	opacity: 0.7;
+	background-color: #7bb;
+	top: 0;
+	left: 0;
+    width: 100%;
+	height: 100px;
+	text-align: center;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	font: 500% sans-serif;
+}
